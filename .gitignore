@@ -1,0 +1,5 @@
+results/
+datasets/
+__pycache__/
+.cache/
+.nfs*
